@@ -4,6 +4,22 @@ Simple compact timer functionality that can:
 - Start and reset the timer;
 - Pause and continue the timer at any time.
 
+## Install & Usage
+
+Install package:
+
+```javascript
+npm install @eneropl/js-timer
+//or
+yarn add @eneropl/js-timer
+```
+
+Import class:
+
+```javascript
+import Timer from '@eneropl/js-timer';
+```
+
 ## Properties
 
 The timer input object has the following structure:

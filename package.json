@@ -1,0 +1,23 @@
+{
+  "name": "@eneropl/js-timer",
+  "version": "1.0.1",
+  "description": "Timer helper in vanilla JS",
+  "main": "./dist/index.js",
+  "keywords": ["js", "timer", "js-timer", "javascript"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EneroPl/js-timer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EneroPl/js-timer/issues"
+  },
+  "homepage": "https://github.com/EneroPl/js-timer#readme",
+  "dependencies": {
+    "moment": "^2.29.3"
+  }
+}
