@@ -50,7 +50,7 @@ As the timer runs, the property will output its formatted data. If the timer has
 
 ```javascript
 // Output timer data: 00:03:00...
-timer.output();
+timer.output;
 ```
 
 ## Pause & Continue
