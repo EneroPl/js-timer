@@ -46,7 +46,7 @@ export default class Timer {
       this._timerInterval = setInterval(() => {
         this.timer--;
 
-        if (this.timer < moment().unix()) {
+        if (this.timer < this.initTime) {
           this.clear();
         }
       }, 1000);
